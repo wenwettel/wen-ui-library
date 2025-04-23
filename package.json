@@ -1,16 +1,16 @@
 {
-  "name": "claro-ui-components",
-  "version": "0.0.7",
+  "name": "wen-ui-library",
+  "version": "1.0.0",
   "type": "module",
   "files": [
     "dist"
   ],
-  "main": "./dist/claro-ui-components.umd.cjs",
-  "module": "./dist/claro-ui-components.js",
+  "main": "./dist/wen-ui-library.umd.cjs",
+  "module": "./dist/wen-ui-library.js",
   "exports": {
     ".": {
-      "import": "./dist/claro-ui-components.js",
-      "require": "./dist/claro-ui-components.umd.cjs"
+      "import": "./dist/wen-ui-library.js",
+      "require": "./dist/wen-ui-library.umd.cjs"
     }
   },
   "scripts": {

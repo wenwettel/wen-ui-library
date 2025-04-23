@@ -9,8 +9,8 @@ export default defineConfig({
   build: {
     lib: {
       entry: resolve(__dirname, 'src/main.ts'),
-      name: 'claro-ui-components',
-      fileName: 'claro-ui-components',
+      name: 'wen-ui-library',
+      fileName: 'wen-ui-library',
     },
 
     rollupOptions: {
